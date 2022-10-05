@@ -1,3 +1,7 @@
+## Deployment Link
+
+- https://enoch-dev-react-search-github-users.netlify.app/
+
 ## Starter Project
 
 - css provided (global styles, styled components)
